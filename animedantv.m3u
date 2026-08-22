@@ -308,10 +308,16 @@ https://i.postimg.cc/MKdJcr01/rajawali-tv-id.png
 https://ratu77.adptv.workers.dev/index.mpd?id=1561&type=dash
 https://ratu77.adptv.workers.dev/index.mpd?id=1561&type=drm
 
-SCTV 9/8/2026 Update
-https://i.ibb.co.com/JcdKRXb/sctv.png
-https://streamvididi.bonetvkoe.web.id/index.mpd?q=204&ext=dash&x=1786421469&k=c3feb8ef4581ff70b808c775d1ac5037905526b72de8e4f95e5fb547e626d3e6&sc=204
-https://streamvididi.bonetvkoe.web.id/index.mpd?q=204&ext=drm&x=1786421469&k=f35ae2d13051fec7f6a93855a89cf70fe5861e93af6e7d2586bd051ec7122341
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/064/569064-LOGO-m.png" group-title="Indonesia",SCTV (vidio)
+http://tvratu.my.id/nissa/index.mpd?id=204&type=dash 
+
 
 SIN PO TV (FM)
 https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png
