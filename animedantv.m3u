@@ -319,6 +319,15 @@ https://ratu77.adptv.workers.dev/index.mpd?id=1561&type=drm
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash 
 
 
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKsVxnuYTz8pswVymtFVhWKVpR5Mof7jvwZWfYYaGkD_z6yL0JV-Z9kUBZBRnLuPFk_DWW70BJPQZuEXl3o3slm2ufMHkRyCcudrNWOroDkiFMEfM9qVzCFDAg4HX9xZAneZlE7fmiHAbs2Cv3QeZpZ3PKixcvGnz9XfdR22KW0QdbTnJFUSoPFqrNjGky/s320/5c547aea-58b4-403c-97cb-400d033b31eb.png" group-title="Indonesia" server="SCTV HD" event-duration="4",SCTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=367635554c37313167346e4747446a56:4d5a35684d7244613661774162536b42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
+
 SIN PO TV (FM)
 https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png
 https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd
